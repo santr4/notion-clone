@@ -3,6 +3,7 @@
 
 import { Heading } from "./_components/heading";
 import { Heroes } from "./_components/heroes";
+import { Footer } from "./_components/footer";
 
 const LandingPage = () => {
   return (
@@ -11,6 +12,7 @@ const LandingPage = () => {
         <Heading />
         <Heroes />
       </div>
+      <Footer />
     </div>
   );
 };
