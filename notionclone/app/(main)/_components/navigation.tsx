@@ -99,7 +99,10 @@ export const Navigation = () => {
           <UserItem />
         </div>
         <div className="mt-4">
-          <p>Documents</p>
+          <p>Untitled</p>
+          <p>Untitled</p>
+          <p>Untitled</p>
+          <p>Untitled</p>
         </div>
         <div
           onMouseDown={handleMouseDown}
