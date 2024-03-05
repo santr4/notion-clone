@@ -13,7 +13,7 @@
 - The techstack used in this project are:
 
           - Nextjs
-          - chadCN
+          - shadCN
           - Tailwind CSS
           - TypesScript
           - Convex - database
